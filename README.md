@@ -6,7 +6,7 @@
 
 ### Part I
 
-1. Introduction.
+1. Introduction (chapters 1-4 from [Computational Thinking and Programming](https://comp-think.github.io/)).
 2. Working environment and notebooks.
 3. Variables, data types and structures, standard library.
 4. Flow control, functions.
@@ -39,6 +39,8 @@
 **TODO**
 
 We will use some **datasets** from [this course](https://github.com/mromanello/ADA-DHOxSS/tree/master/data). Also check out the [list of resources](https://github.com/mromanello/ADA-DHOxSS/blob/master/ADA-resources.md) from the same course.
+
+Please consider doing at least some of the Python exercises proposed in the book [Computational Thinking and Programming](https://comp-think.github.io/) on your own. You can always ask me about them during laboratory sessions.
 
 ## Setting-up your working environment
 
