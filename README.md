@@ -1,6 +1,6 @@
 # Introduction to Programming
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Giovanni1085/UNIBO_Programmazione_LM/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Giovanni1085/UNIBO_Programmazione_LM/main)
 
 ## Contents
 
@@ -8,7 +8,7 @@
 
 1. Introduction.
 2. Working environment and notebooks.
-3. Variables, data types, data structures, standard library.
+3. Variables, data types and structures, standard library.
 4. Flow control, functions.
 5. Modules and packages.
 6. Input/output, JSON.
@@ -16,9 +16,9 @@
 
 #### Notebooks
 1. [Hello World](notebooks/0_HelloWorld.ipynb): Start here, to check everything is working as intended. 
-2. [Basics, part 1](notebooks/1_Basics.ipynb): covering topics 1-3.
-2. [Basics, part 2](notebooks/2_Basics.ipynb): covering topics 4-5.
-2. [Basics, part 3](notebooks/3_Basics.ipynb): covering topic 6-7.
+2. [Part 1](notebooks/1_Basics.ipynb): covering topics 1-3.
+2. [Part 2](notebooks/2_Basics.ipynb): covering topics 4-5.
+2. [Part 3](notebooks/3_Basics.ipynb): covering topic 6-7.
 
 ### Part II
 
