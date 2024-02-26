@@ -17,26 +17,23 @@
 #### Notebooks
 1. [Hello World](notebooks/0_HelloWorld.ipynb): Start here, to check everything is working as intended. 
 2. [Part 1](notebooks/1_Basics.ipynb): covering topics 1-3.
-2. [Part 2](notebooks/2_Basics.ipynb): covering topics 4-5.
-2. [Part 3](notebooks/3_Basics.ipynb): covering topic 6-7.
+3. [Part 2](notebooks/2_Basics.ipynb): covering topics 4-5.
+4. [Part 3](notebooks/3_Basics.ipynb): covering topic 6-7.
 
 ### Part II
 
-1. Strings.
-2. Regular expressions.
+1. Web scraping and APIs.
+2. Strings and regular expressions.
 3. Text files, encodings and formats.
-4. Arrays and matrices.
-5. Web scraping and APIs.
-6. Data analysis.
-7. Object Oriented programming (hints).
+4. Data analysis, working with texts.
+5. Arrays and matrices.
+6. Object oriented programming (maybe).
 
 #### Notebooks
 
-**TODO**
+1. [Part 4](notebooks/4_WebScraping.ipynb): covering topic 1.
 
 ## Datasets and exercises
-
-**TODO**
 
 We will use some **datasets** from [this course](https://github.com/mromanello/ADA-DHOxSS/tree/master/data). Also check out the [list of resources](https://github.com/mromanello/ADA-DHOxSS/blob/master/ADA-resources.md) from the same course.
 

@@ -7,4 +7,3 @@ nltk
 tweepy
 configparser
 requests
-
