@@ -22,16 +22,20 @@
 
 ### Part II
 
-1. Web scraping and APIs.
-2. Strings and regular expressions.
-3. Text files, encodings and formats.
-4. Data analysis, working with texts.
-5. Arrays and matrices.
-6. Object oriented programming (maybe).
+1. Scientific programming with arrays and matrices.
+2. Web scraping and Application Programming Interfaces.
+3. More on strings and regular expressions.
+4. Text files, encodings and formats.
+5. Data analysis.
+6. Object oriented programming (hints).
 
 #### Notebooks
 
-1. [Part 4](notebooks/4_WebScraping.ipynb): covering topic 1.
+1. [Part 4](notebooks/4_ScientificProgramming.ipynb): covering topic 1.
+2. [Part 5](notebooks/5_WebScraping.ipynb): covering topic 2.
+2. [Part 6.1](notebooks/6.1_RegularExpressions.ipynb): covering topic 3.
+2. [Part 6.2](notebooks/6.2_FileFormats.ipynb): covering topic 4.
+2. [Part 7](notebooks/7_DataAnalysis.ipynb): covering topic 5.
 
 ## Datasets and exercises
 

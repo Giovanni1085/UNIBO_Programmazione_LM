@@ -4,6 +4,6 @@ pandas
 matplotlib
 seaborn
 nltk
-tweepy
+numpy
 configparser
 requests
