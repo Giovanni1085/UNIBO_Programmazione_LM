@@ -14,6 +14,9 @@ def read_files(path):
     file2content = dict()
 
     for root, dirs, files in os.walk(path):
+        #print("Iteration")
+        #print(root, dirs, files)
+        #print("End of iteration")
         for f in files:
 
             file_path = os.path.join(root, f)
