@@ -43,6 +43,10 @@ We will use some **datasets** from [this course](https://github.com/mromanello/A
 
 Please consider doing at least some of the Python exercises proposed in the book [Computational Thinking and Programming](https://comp-think.github.io/) on your own. You can always ask me about them during laboratory sessions.
 
+## Project guidelines
+
+Please see the [project folder](project/).
+
 ## Setting-up your working environment
 
 You can follow all classes and do the exercises using Binder (just click on the badge above).

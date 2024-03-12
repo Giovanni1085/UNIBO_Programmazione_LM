@@ -31,6 +31,6 @@ The **default project** is left quite open for similar reasons. This is what I r
 2. Pick a dataset you are interested into. Read its documentation, download it or a sample of it, take a closer look.
 3. Elaborate some analytical questions you could "ask" or tasks you could accomplish using the dataset. Remember: for higher grades, it is a good idea to go beyond what we have seen in class. For example, you could formulate and execute a quantitative corpus analysis (starting by defining what that should be and why), or you could develop a software to process textual data (e.g., with machine learning), or develop a Website to give access to the corpus.
 4. Make a plan, divide work among you, and start iterating. Make sure to stay focused: it is a good idea to give yourself a timeline with deadlines.
-5. Feel free to ask me questions (but not to ask me to do work for you!).
+5. Feel free to ask me questions (but not to do work in your place).
 
 
