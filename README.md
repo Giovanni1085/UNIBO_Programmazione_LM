@@ -27,15 +27,16 @@
 3. More on strings and regular expressions.
 4. Text files, encodings and formats.
 5. Data analysis.
-6. Object oriented programming (hints).
+6. Working with texts.
 
 #### Notebooks
 
 1. [Part 4](notebooks/4_ScientificProgramming.ipynb): covering topic 1.
 2. [Part 5](notebooks/5_WebScraping.ipynb): covering topic 2.
-2. [Part 6.1](notebooks/6.1_RegularExpressions.ipynb): covering topic 3.
-2. [Part 6.2](notebooks/6.2_FileFormats.ipynb): covering topic 4.
-2. [Part 7](notebooks/7_DataAnalysis.ipynb): covering topic 5.
+3. [Part 6.1](notebooks/6.1_RegularExpressions.ipynb): covering topic 3.
+4. [Part 6.2](notebooks/6.2_FileFormats.ipynb): covering topic 4.
+5. [Part 7](notebooks/7_DataAnalysis.ipynb): covering topic 5.
+6. [Part 8](notebooks/7_WorkingTexts.ipynb): covering topic 6.
 
 ## Datasets and exercises
 
